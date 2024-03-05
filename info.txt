@@ -1,0 +1,12 @@
+https://dash.elfsight.com/widget/1bce6d97-7822-4bd8-944e-a63dbf9e7125
+https://www.agochs-ii.com:2083/
+agochsii
+m9y5E4bp$f%w
+
+
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=agochsii_root
+DB_USERNAME=agochsii_root
+DB_PASSWORD=agochsii_PWD
